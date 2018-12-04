@@ -1,0 +1,18 @@
+16 error Error: Command failed: git remote update
+16 error Warning: Permanently added 'igit.58corp.com,10.128.219.59' (RSA) to the list of known hosts.
+16 error git@igit.58corp.com: Permission denied (publickey).
+16 error fatal: Could not read from remote repository.
+16 error
+16 error Please make sure you have the correct access rights
+16 error and the repository exists.
+16 error error: Could not fetch origin
+16 error
+16 error Fetching origin
+16 error
+16 error     at makeError (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+16 error     at Function.module.exports.sync (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:338:15)
+16 error     at Object.execSync (/usr/local/lib/node_modules/lerna/node_modules/@lerna/child-process/index.js:22:16)
+16 error     at updateRemote (/usr/local/lib/node_modules/lerna/node_modules/@lerna/version/lib/is-behind-upstream.js:26:16)
+16 error     at isBehindUpstream (/usr/local/lib/node_modules/lerna/node_modules/@lerna/version/lib/is-behind-upstream.js:11:3)
+16 error     at VersionCommand.initialize (/usr/local/lib/node_modules/lerna/node_modules/@lerna/version/index.js:120:7)
+16 error     at Promise.resolve.then (/usr/local/lib/node_modules/lerna/node_modules/@lerna/command/index.js:245:24)

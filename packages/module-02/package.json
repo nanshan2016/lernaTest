@@ -10,5 +10,6 @@
     "webpack": "^2.6.1"
   },
   "author": "supin2018 <supin2018@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "f2a6474c9015831d76dc4173874639cef249efa3"
 }
