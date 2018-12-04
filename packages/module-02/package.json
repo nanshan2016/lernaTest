@@ -1,16 +1,14 @@
 {
-  "name": "module-01",
-  "version": "0.0.1",
+  "name": "module-02",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "less": "^3.0.0-alpha.3",
-    "less-loader": "^4.0.5"
+    "webpack": "^2.6.1"
   },
   "author": "supin2018 <supin2018@163.com>",
-  "license": "MIT",
-  "gitHead": "3ed5408cc3a259cee025d4b313063d1da90f4729"
+  "license": "MIT"
 }
